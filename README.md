@@ -76,13 +76,13 @@ print(tabulate(data, headers, showindex=i,tablefmt="rounded_outline"))
 
 karena disini saya memakai package **tabulate** jadi sebelum itu silahkan instal di **command prompt**
 
-![gambar1](gambar/aku1.png)
 
 setelah terinstall kita membuat modul yang berisi `from tabulate import tabulate`
 
-![gambar2](gambar/aku2.png)
+![Uploading aku2.png…]()
 
 selanjutnya kita akan mencoba untuk di running atau dijalankan project yang telah dibuat
 
-![gambar3](gambar/aku3.png)
+![Uploading aku3.png…]()
+
 
